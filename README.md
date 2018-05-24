@@ -5,9 +5,10 @@ El objetivo de este proyecto es tomar la humedad del suelo reportada por un higr
 
 Todo esto usando una placa Arduino Uno.
 
-![Diagrama conexiones](http://moviltracing.com/iot/images/arduino_fc_28_.LCD_PCF8574_.png)
+Diagrama de conexiones:
+<img src="http://moviltracing.com/iot/images/arduino_fc_28_.LCD_PCF8574_.png" width="500px" />
 
-![Imagen 1](http://moviltracing.com/iot/images/20180523_213204.jpg)
+Resultado:
+<img src="http://moviltracing.com/iot/images/20180523_213204.jpg" width="500px" />
 
-![Imagen 2](http://moviltracing.com/iot/images/20180523_213213.jpg)
-
+<img src="http://moviltracing.com/iot/images/20180523_213213.jpg" width="500px" />
